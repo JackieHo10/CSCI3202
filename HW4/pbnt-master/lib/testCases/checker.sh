@@ -1,0 +1,8 @@
+python DiseasePredictor.py "-mD"
+python DiseasePredictor.py "-jPSC"
+python DiseasePredictor.py "-jpsc"
+python DiseasePredictor.py "-j~p~s~c"
+python DiseasePredictor.py "-gc|s"
+python DiseasePredictor.py "-g~x|~s~c"
+python DiseasePredictor.py "-jPCX"
+python DiseasePredictor.py "-mC"
