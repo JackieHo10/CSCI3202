@@ -1,2 +1,2 @@
-# CSCI3202
-Artificial Intelligence
+# CSCI_3202
+Homework for Artificial Intelligence
